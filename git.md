@@ -185,7 +185,7 @@ A alteração do diretório pode ser realizada através do comando abaixo:
 
 ### Vincular repositório local com um repositório remoto
 
-	git remote add origin git@github.com:leocomelli/curso-git.git
+	git remote add origin git@github.com:rodrigocflorindo/Lista-de-comandos-GIT.git
 	
 ### Exibir informações dos repositórios remotos
 
